@@ -1,0 +1,2 @@
+**Test Repository Knowledge Base**
+This is a sample test repository used for development, experimentation, and demonstration purposes. It may include example code, configuration files, documentation, and test data. The repository is intended to help users learn version control workflows, test integrations, and validate new features or tools in a safe environment. No production data or sensitive information should be stored here.
